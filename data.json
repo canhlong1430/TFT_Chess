@@ -2,8 +2,15 @@
   {
     "name": "street_demon_brand",
     "images": [
-      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/zyra.PNG",
-      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/mundo.PNG"
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/brand.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/ekko.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/kobuko.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/mundo.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/nekko.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/rengar.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/samira.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/zigg.PNG",
+      "https://raw.githubusercontent.com/canhlong1430/TFT_Chess/main/street_demon_brand/zyra.PNG"
     ]
   }
 ]
